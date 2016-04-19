@@ -1,0 +1,83 @@
+\BOOKMARK [0][-]{chapter*.2}{Preface}{}% 1
+\BOOKMARK [0][-]{chapter.0}{Introduction to wxMaxima}{}% 2
+\BOOKMARK [1][-]{section.0.1}{Basic Operations}{chapter.0}% 3
+\BOOKMARK [2][-]{subsection.0.1.1}{Arithmetic}{section.0.1}% 4
+\BOOKMARK [2][-]{subsection.0.1.2}{Algebra}{section.0.1}% 5
+\BOOKMARK [2][-]{subsection.0.1.3}{Trigonometry}{section.0.1}% 6
+\BOOKMARK [1][-]{section.0.2}{Expressions and Functions}{chapter.0}% 7
+\BOOKMARK [1][-]{section.0.3}{2D and 3D Plots}{chapter.0}% 8
+\BOOKMARK [1][-]{section.0.4}{Defining and Solving Equations}{chapter.0}% 9
+\BOOKMARK [1][-]{section.0.5}{Sequences and Sums}{chapter.0}% 10
+\BOOKMARK [2][-]{subsection.0.5.1}{Sequences}{section.0.5}% 11
+\BOOKMARK [2][-]{subsection.0.5.2}{Sums}{section.0.5}% 12
+\BOOKMARK [1][-]{section.0.6}{Application: Line Passing Through Two Given Points}{chapter.0}% 13
+\BOOKMARK [1][-]{section.0.7}{Module 0 Exercises}{chapter.0}% 14
+\BOOKMARK [0][-]{chapter.1}{Classical Integration Techniques}{}% 15
+\BOOKMARK [1][-]{section.1.1}{Quick Integration Review}{chapter.1}% 16
+\BOOKMARK [2][-]{subsection.1.1.1}{Definite Integrals}{section.1.1}% 17
+\BOOKMARK [2][-]{subsection.1.1.2}{Area Functions}{section.1.1}% 18
+\BOOKMARK [2][-]{subsection.1.1.3}{The Fundamental Theorem of Calculus}{section.1.1}% 19
+\BOOKMARK [1][-]{section.1.2}{Transforming Integrals With Substitutions}{chapter.1}% 20
+\BOOKMARK [2][-]{subsection.1.2.1}{u-Substitution}{section.1.2}% 21
+\BOOKMARK [2][-]{subsection.1.2.2}{Trigonometric Substitution}{section.1.2}% 22
+\BOOKMARK [1][-]{section.1.3}{More Integration Techniques}{chapter.1}% 23
+\BOOKMARK [2][-]{subsection.1.3.1}{Integration by Parts}{section.1.3}% 24
+\BOOKMARK [2][-]{subsection.1.3.2}{Partial Fractions Decomposition}{section.1.3}% 25
+\BOOKMARK [1][-]{section.1.4}{Improper Integrals}{chapter.1}% 26
+\BOOKMARK [1][-]{section.1.5}{Module 1 Exercises}{chapter.1}% 27
+\BOOKMARK [0][-]{chapter.2}{Numerical Integration Techniques}{}% 28
+\BOOKMARK [1][-]{section.2.1}{Midpoint Sums}{chapter.2}% 29
+\BOOKMARK [1][-]{section.2.2}{Trapezoid Sums}{chapter.2}% 30
+\BOOKMARK [2][-]{subsection.2.2.1}{For a Function Defined Analytically}{section.2.2}% 31
+\BOOKMARK [2][-]{subsection.2.2.2}{For a Discrete Data Set}{section.2.2}% 32
+\BOOKMARK [1][-]{section.2.3}{Simpson's Method}{chapter.2}% 33
+\BOOKMARK [2][-]{subsection.2.3.1}{For a Function Defined Analytically}{section.2.3}% 34
+\BOOKMARK [2][-]{subsection.2.3.2}{*For a Discrete Data Set}{section.2.3}% 35
+\BOOKMARK [1][-]{section.2.4}{wxMaxima's Built-In Quadrature Methods}{chapter.2}% 36
+\BOOKMARK [1][-]{section.2.5}{A Monte Carlo Method}{chapter.2}% 37
+\BOOKMARK [1][-]{section.2.6}{Module 2 Exercises}{chapter.2}% 38
+\BOOKMARK [0][-]{chapter.3}{Geometric Applications of Integration}{}% 39
+\BOOKMARK [1][-]{section.3.1}{Area Integrals}{chapter.3}% 40
+\BOOKMARK [2][-]{subsection.3.1.1}{Area and Physical Integration}{section.3.1}% 41
+\BOOKMARK [2][-]{subsection.3.1.2}{Area Bounded Between Two Functions}{section.3.1}% 42
+\BOOKMARK [1][-]{section.3.2}{Solids of Revolution}{chapter.3}% 43
+\BOOKMARK [2][-]{subsection.3.2.1}{Disks and Washers}{section.3.2}% 44
+\BOOKMARK [2][-]{subsection.3.2.2}{Cylindrical Shells}{section.3.2}% 45
+\BOOKMARK [1][-]{section.3.3}{Arc Length}{chapter.3}% 46
+\BOOKMARK [2][-]{subsection.3.3.1}{As a Limiting Process}{section.3.3}% 47
+\BOOKMARK [2][-]{subsection.3.3.2}{As a Physical Integral}{section.3.3}% 48
+\BOOKMARK [1][-]{section.3.4}{Surface Area}{chapter.3}% 49
+\BOOKMARK [1][-]{section.3.5}{Module 3 Exercises}{chapter.3}% 50
+\BOOKMARK [0][-]{chapter.4}{Ordinary Differential Equations}{}% 51
+\BOOKMARK [1][-]{section.4.1}{Basic Definitions}{chapter.4}% 52
+\BOOKMARK [1][-]{section.4.2}{Separable Equations}{chapter.4}% 53
+\BOOKMARK [1][-]{section.4.3}{wxMaxima's Built-In ODE Solver}{chapter.4}% 54
+\BOOKMARK [1][-]{section.4.4}{Direction Fields}{chapter.4}% 55
+\BOOKMARK [1][-]{section.4.5}{Euler's Method}{chapter.4}% 56
+\BOOKMARK [1][-]{section.4.6}{Module 4 Exercises}{chapter.4}% 57
+\BOOKMARK [0][-]{chapter.5}{Parametric and Polar Curves}{}% 58
+\BOOKMARK [1][-]{section.5.1}{Parametric Equations}{chapter.5}% 59
+\BOOKMARK [1][-]{section.5.2}{Calculus Applications for Parametric Curves}{chapter.5}% 60
+\BOOKMARK [2][-]{subsection.5.2.1}{Slope of a Parametric Curve}{section.5.2}% 61
+\BOOKMARK [2][-]{subsection.5.2.2}{Arc Length of a Parametric Curve}{section.5.2}% 62
+\BOOKMARK [1][-]{section.5.3}{Polar Coordinates}{chapter.5}% 63
+\BOOKMARK [2][-]{subsection.5.3.1}{Polar Coordinates and Coordinate Transformations}{section.5.3}% 64
+\BOOKMARK [2][-]{subsection.5.3.2}{Plotting Curves in Polar Coordinates}{section.5.3}% 65
+\BOOKMARK [1][-]{section.5.4}{Calculus Applications for Polar Curves}{chapter.5}% 66
+\BOOKMARK [2][-]{subsection.5.4.1}{Slope in Polar Coordinates}{section.5.4}% 67
+\BOOKMARK [2][-]{subsection.5.4.2}{Arc Length of a Polar Curve}{section.5.4}% 68
+\BOOKMARK [2][-]{subsection.5.4.3}{Area in Polar Coordinates}{section.5.4}% 69
+\BOOKMARK [1][-]{section.5.5}{Module 5 Exercises}{chapter.5}% 70
+\BOOKMARK [0][-]{chapter.6}{Infinite Sequences and Infinite Series}{}% 71
+\BOOKMARK [1][-]{section.6.1}{Infinite Sequences and Their Limits}{chapter.6}% 72
+\BOOKMARK [1][-]{section.6.2}{Infinite Series and Their Sums}{chapter.6}% 73
+\BOOKMARK [1][-]{section.6.3}{Classical Convergence Tests}{chapter.6}% 74
+\BOOKMARK [2][-]{subsection.6.3.1}{The Integral Test}{section.6.3}% 75
+\BOOKMARK [2][-]{subsection.6.3.2}{Comparison Tests}{section.6.3}% 76
+\BOOKMARK [2][-]{subsection.6.3.3}{Alternating Series and Absolute Convergence}{section.6.3}% 77
+\BOOKMARK [2][-]{subsection.6.3.4}{The Ratio and Root Tests}{section.6.3}% 78
+\BOOKMARK [1][-]{section.6.4}{Power Series}{chapter.6}% 79
+\BOOKMARK [2][-]{subsection.6.4.1}{Convergence and Radius of Convergence}{section.6.4}% 80
+\BOOKMARK [2][-]{subsection.6.4.2}{Taylor Series}{section.6.4}% 81
+\BOOKMARK [1][-]{section.6.5}{*Fourier Sine Series}{chapter.6}% 82
+\BOOKMARK [1][-]{section.6.6}{Module 6 Exercises}{chapter.6}% 83

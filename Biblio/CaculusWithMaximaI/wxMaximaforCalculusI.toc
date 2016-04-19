@@ -1,0 +1,70 @@
+\select@language {english}
+\contentsline {chapter}{Preface}{v}{chapter*.2}
+\contentsline {chapter}{\numberline {0}Introduction to wxMaxima}{1}{chapter.0}
+\contentsline {section}{\numberline {0.1}Basic Operations}{2}{section.0.1}
+\contentsline {subsection}{\numberline {0.1.1}Arithmetic}{2}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {0.1.2}Algebra}{3}{subsection.0.1.2}
+\contentsline {subsection}{\numberline {0.1.3}Trigonometry}{4}{subsection.0.1.3}
+\contentsline {section}{\numberline {0.2}Expressions and Functions}{5}{section.0.2}
+\contentsline {section}{\numberline {0.3}2D and 3D Plots}{7}{section.0.3}
+\contentsline {section}{\numberline {0.4}Defining and Solving Equations}{10}{section.0.4}
+\contentsline {section}{\numberline {0.5}Sequences and Sums}{13}{section.0.5}
+\contentsline {subsection}{\numberline {0.5.1}Sequences}{13}{subsection.0.5.1}
+\contentsline {subsection}{\numberline {0.5.2}Sums}{16}{subsection.0.5.2}
+\contentsline {section}{\numberline {0.6}Application: Line Passing Through Two Given Points}{17}{section.0.6}
+\contentsline {section}{\numberline {0.7}Module 0 Exercises}{19}{section.0.7}
+\contentsline {chapter}{\numberline {1}Function Review}{20}{chapter.1}
+\contentsline {section}{\numberline {1.1}Polynomial and Rational Functions}{21}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Polynomial Functions}{21}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Rational Functions}{22}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}Trigonometric Functions}{25}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}The Basic Trig Functions}{25}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Graphs of Sinusoidal Functions}{27}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Exponential Functions}{31}{section.1.3}
+\contentsline {section}{\numberline {1.4}Function Transformations}{33}{section.1.4}
+\contentsline {section}{\numberline {1.5}Parity of Functions}{36}{section.1.5}
+\contentsline {section}{\numberline {1.6}Algebraic Combinations of Functions}{38}{section.1.6}
+\contentsline {section}{\numberline {1.7}Function Compositions}{43}{section.1.7}
+\contentsline {section}{\numberline {1.8}Function Inverses}{45}{section.1.8}
+\contentsline {section}{\numberline {1.9}Module 1 Exercises}{51}{section.1.9}
+\contentsline {chapter}{\numberline {2}Limits}{53}{chapter.2}
+\contentsline {section}{\numberline {2.1}Using Sequences to Approximate Limits}{54}{section.2.1}
+\contentsline {section}{\numberline {2.2}wxMaxima's Limit Commands}{60}{section.2.2}
+\contentsline {section}{\numberline {2.3}Exploring the Formal Definition of Limit}{65}{section.2.3}
+\contentsline {section}{\numberline {2.4}Module 2 Exercises}{69}{section.2.4}
+\contentsline {chapter}{\numberline {3}Introduction to Derivatives}{70}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Tangent Line Problem}{71}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}The Tangent Line from a Sequence of Secant Lines}{71}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}The Tangent Line as a Limit}{73}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}wxMaxima's Derivative Commands}{75}{section.3.2}
+\contentsline {section}{\numberline {3.3}Products, Quotients and Linear Combinations}{78}{section.3.3}
+\contentsline {section}{\numberline {3.4}Derivatives of Function Compositions}{80}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}The Chain Rule}{80}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Logarithmic Differentiation}{81}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Implicit Differentiation}{82}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}Module 3 Exercises}{84}{section.3.5}
+\contentsline {chapter}{\numberline {4}Applications of Derivatives}{86}{chapter.4}
+\contentsline {section}{\numberline {4.1}Increasing, Decreasing and Local Extrema}{87}{section.4.1}
+\contentsline {section}{\numberline {4.2}Concavity and Inflection}{92}{section.4.2}
+\contentsline {section}{\numberline {4.3}Optimization Problems}{94}{section.4.3}
+\contentsline {section}{\numberline {4.4}Newton's Method}{97}{section.4.4}
+\contentsline {section}{\numberline {4.5}Module 4 Exercises}{103}{section.4.5}
+\contentsline {chapter}{\numberline {5}The Area Problem}{106}{chapter.5}
+\contentsline {section}{\numberline {5.1}Riemann Sums: Left, Right and Middle}{107}{section.5.1}
+\contentsline {section}{\numberline {5.2}The Definite Integral}{111}{section.5.2}
+\contentsline {section}{\numberline {5.3}wxMaxima's Definite Integral Commands}{115}{section.5.3}
+\contentsline {section}{\numberline {5.4}Approximating Area From a List of Data}{119}{section.5.4}
+\contentsline {section}{\numberline {5.5}Module 5 Exercises}{122}{section.5.5}
+\contentsline {chapter}{\numberline {6}Antiderivatives and the Fundamental Theorem}{124}{chapter.6}
+\contentsline {section}{\numberline {6.1}Antiderivatives}{125}{section.6.1}
+\contentsline {section}{\numberline {6.2}The Fundamental Theorem of Calculus}{128}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Area Functions}{128}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}The Fundamental Theorem}{129}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}Computing Integrals}{131}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Basic Antiderivatives}{131}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Substitutions}{132}{subsection.6.3.2}
+\contentsline {section}{\numberline {6.4}Area Integrals}{134}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Area and Physical Integration}{134}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Area Bounded Between Two Functions}{136}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Average Value}{141}{subsection.6.4.3}
+\contentsline {section}{\numberline {6.5}Module 6 Exercises}{143}{section.6.5}
